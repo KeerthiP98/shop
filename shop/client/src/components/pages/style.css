@@ -1,0 +1,29 @@
+.shop
+{
+  background: url("F:/full stack all assign done by mouni/shop/client/images/shop.jpeg") scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.img
+{
+height: 250px;
+width: 400px;
+
+}
+
+.card
+{
+  height:20em; 
+}
+.card1
+{
+  height:20em;
+  width:20em
+  
+  
+}
+.sign{
+  background: url("https://i.stack.imgur.com/jGlzr.png");
+}
+
